@@ -2,7 +2,7 @@
 
 - 📫 &nbsp;How to reach me ... vpatil492@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansu431&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volume07&show_icons=true&theme=radical)
 
 
 <!---
